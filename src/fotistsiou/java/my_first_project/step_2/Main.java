@@ -1,6 +1,7 @@
 package fotistsiou.java.my_first_project.step_2;
 
 public class Main {
+
     public static void main(String[] args) {
         long bubblegum = 202;
         long toffee = 118;
