@@ -6,6 +6,7 @@
 > * **Project**: [My First Project with Java](https://hyperskill.org/projects/380?track=8)
 > * **Description**: This project will introduce you to Hyperskill projects. Practice Java coding to build a program that can automate your
     account management routine.
+> * **Powered by**: [Hyperskill](https://hyperskill.org/)
 
 ## About
 Imagine that you're the owner of a new small corner shop. You are doing well and want to determine how much you earned 
