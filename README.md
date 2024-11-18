@@ -1,8 +1,11 @@
 # My First Project with Java
-**Level**: 🌟 Easy | **Time**: 🕒 ~4 hours
 
-This project will introduce you to Hyperskill projects. Practice Java coding to build a program that can automate your 
-account management routine.
+## Project Details
+> * **Level**: 🌟 Easy | **Time**: 🕒 ~4 hours
+> * **Course**: [Introduction to Java](https://hyperskill.org/courses/8-introduction-to-java)
+> * **Project**: [My First Project with Java](https://hyperskill.org/projects/380?track=8)
+> * **Description**: This project will introduce you to Hyperskill projects. Practice Java coding to build a program that can automate your
+    account management routine.
 
 ## About
 Imagine that you're the owner of a new small corner shop. You are doing well and want to determine how much you earned 
@@ -37,5 +40,3 @@ to get it built. Here’s what awaits you:
     * Characters
     * String
     * Formatted output
-
-> **Project powered by** [Hyperskill.org](https://hyperskill.org/projects/380?track=8)
