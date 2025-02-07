@@ -1,7 +1,7 @@
 # My First Project with Java
 
 ## Project Details
-> - **Level**: 🌟 Easy | **Time**: 🕒 ~4 hours
+> - **Level**: 🌟 Easy | **Time**: 🕒 ~3 hours
 > - **Course**: [Introduction to Java](https://hyperskill.org/courses/8-introduction-to-java)
 > - **Project**: [My First Project with Java](https://hyperskill.org/projects/380?track=8)
 > - **Description**: This project will introduce you to Hyperskill projects. Practice Java coding to build a program that can automate your
